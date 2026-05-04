@@ -54,6 +54,8 @@ The script generates a plot where:
 - **X-axis:** Green light duration for the first road (seconds).
 - **Y-axis:** Average waiting time (seconds).
 - An **Annotation** marks the optimal point where the general average waiting time is at its minimum.
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/50a02213-bf14-4d50-bf9a-36341f0db5cf" />
+
 
 ---
 *Developed as a useful project for traffic analysis and optimization.*
